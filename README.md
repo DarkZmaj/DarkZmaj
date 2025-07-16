@@ -43,9 +43,9 @@
 
 ## 📫 Let’s Connect
 
-- **Email**: maj@darkzmaj.online  
+- **Email**: contact@darkzmaj.online  
 - **Location**: Slovenia  
-- **Socials**: [YouTube](#) • [TikTok](#) • [Discord](#) • [LinkedIn](#) • [GitHub](#)
+- **Socials**: [WebSite](httos://darkzmaj.online)
 
 ---
 
