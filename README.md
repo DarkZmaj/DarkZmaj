@@ -15,14 +15,13 @@
 ---
 
 ## ⚙️ Projects
-
+*Not everything is listed here (it either doesn't exist anymore or in development)
 | Project | Description | Tech |
 |--------|-------------|------|
-| **EMONAMC Minecraft Server** | Built a community‑driven SMP with engaging gameplay | — |
+| **SloBlock Minecraft Server** | Built with love and ideas with engaging gameplay | — |
 | **Cheppy** | Social platform for chat & video calls | — |
 | **Lets Talk!** | Roblox hangout game featuring voice chat & minigames | — |
 | **Personal Portfolio** | Showcases my work and skills with modern design and animations | HTML, CSS, JS |
-| **Future Project** | A placeholder for upcoming work—stay tuned! | — |
 
 ---
 
