@@ -45,7 +45,6 @@
 
 - **Email**: contact@darkzmaj.online  
 - **Location**: Slovenia  
-- **Socials**: [WebSite](httos://darkzmaj.online)
 
 ---
 
