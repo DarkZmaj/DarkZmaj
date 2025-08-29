@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maj Kovacic (aka DarkZmaj / Cryvex Co‑Founder)
+# 👋 Hi, I’m Maj Kovacic (aka EMKEJ / Cryvex Co‑Founder)
 
 🎮 17‑year‑old tech enthusiast from Slovenia, passionate about **servers**, **cybersecurity**, **gaming**, and **creative media**.
 
